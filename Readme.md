@@ -12,6 +12,8 @@ A lightweight Bash script that provides countdowns (for days) for Waybar. A term
 
 **Showing all tooltip, rofi ui and terminal ui**
 
+https://github.com/user-attachments/assets/f1a45ca2-ef81-475d-987d-1dfab7093aa4
+
 ![img](/preview/img9.png)
 
 **To get my waybar config with all of my cool scripts** [modern-labwc](https://github.com/Harsh-bin/modern-labwc/)
