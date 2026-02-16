@@ -54,7 +54,8 @@ chmod +x ~/.config/waybar/scripts/countdown/*.sh
       },
 ```
 
-You can use this css class property .expired to change waybar view when a countdown expired
+
+**You can use this css class property `.expired` to change waybar view when a countdown expired**
 
 NOTE: if you change name of module such as `"custom/tracker":` then css class will become `#custom-countdown.tracker`
 
